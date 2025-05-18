@@ -1,5 +1,7 @@
 # Pharos Testnet 自动化助手
-
+在这里注册 ：[Pharos 测试网](https://testnet.pharosnetwork.xyz/experience?inviteCode=LnPOHG7p5WOShFyR)
+连接新钱包
+连接 X & Discord 账户
 这是一个为 Pharos Testnet 设计的自动化脚本，用于自动执行签到、领取水龙头、转账、包装/解包代币、WPHRS 与 USDC 互换等操作。脚本专为中文用户优化，支持随机金额和操作顺序以防止女巫攻击，采用并发处理以提升多账户效率，仅限测试网使用。
 
 ## 功能特点
