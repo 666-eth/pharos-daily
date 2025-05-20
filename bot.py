@@ -104,7 +104,7 @@ class PharosBot:
                 "type": "function"
             }
         ]
-        self.ref_code = "LnPOHG7p5WOShFyR" 
+        self.ref_code = "" 
         self.proxies = []
         self.proxy_idx = 0
         self.account_proxy_map = {}
